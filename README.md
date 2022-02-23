@@ -1,9 +1,10 @@
-# Tutorial API REST
+# Tutorial API REST Falcon Master y Fernando Herrera
 
-### Modificación realizada desde
+### Modificación realizada desde GitLab
 
 <br>
 
 # Ciudades
 
 - Gotica
+- Kitchen Hell
