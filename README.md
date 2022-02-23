@@ -7,4 +7,3 @@
 # Ciudades
 
 - Gotica
-- Kitchen
